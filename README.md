@@ -1,11 +1,9 @@
-# Embedded Artistry templates
+# mbedded Artistry templates
 
 This repository contains templates that are useful for open-source projects, including:
 
 * Documentation (README, CONTRIBUTING, GitHub templates)
 * Jenkins CI pipelines, showing both a "CI" build variant and a "nightly" build variant
-
-For more on project documentation:
 
 * [Your Project is Great, So Let's Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
 * [Get Others Involved in Your Project with a CONTRIBUTING Guide](https://embeddedartistry.com/blog/2017/12/11/get-others-involved-in-your-project-with-a-contributing-guide/)
